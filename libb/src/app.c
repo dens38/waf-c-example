@@ -1,0 +1,2 @@
+void libb_goodbye(){
+}
